@@ -7,4 +7,6 @@ d=40
 e=45
 
 
-print("need to update the more")
+print("need to update the more"
+if a>50
+print ("a is greater")
