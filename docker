@@ -1,4 +1,7 @@
 
-This is a docker file: Danish
-This is a docker file:Jithin added
+FROM 
+Maintainer
+COPY
+
+#This is a demo docker for the project
 
