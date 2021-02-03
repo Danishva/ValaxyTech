@@ -1,2 +1,5 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
+<h1>Welcome to OZonetel communications. 
+This is a demo project for online shopping!!! 
+Let's Begin
+</h1>
 
